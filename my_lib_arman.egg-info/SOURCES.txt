@@ -1,0 +1,8 @@
+README.md
+setup.py
+my_lib/__init__.py
+my_lib/core.py
+my_lib_arman.egg-info/PKG-INFO
+my_lib_arman.egg-info/SOURCES.txt
+my_lib_arman.egg-info/dependency_links.txt
+my_lib_arman.egg-info/top_level.txt
